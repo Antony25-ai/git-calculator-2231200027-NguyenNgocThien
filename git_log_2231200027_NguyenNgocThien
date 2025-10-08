@@ -1,0 +1,46 @@
+commit 2b3f9d5e60294452caf71c1633c814f2eabbe898
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 15:26:29 2025 +0700
+
+    Revert "Refactor: Reorder operator keys"
+    
+    This reverts commit 851ad074145fce3c133b26efc8893f4f524b1a02.
+
+commit 59bf1901f0b38b1535787d442e0c4e4372d41175
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 15:22:37 2025 +0700
+
+    Revert "Refactor: Reorder operator keys"
+    
+    This reverts commit 851ad074145fce3c133b26efc8893f4f524b1a02.
+
+commit c43f6a1942b9921e98de6d05e973fc025cc228bc
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 15:19:50 2025 +0700
+
+    Build: Add .gitignore to ignore log files
+
+commit 358b24152fc4827724887e29208b6e7b63754a12
+Merge: 851ad07 287bc55
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 15:03:44 2025 +0700
+
+    Merge branch 'feature-sqrt'
+
+commit 851ad074145fce3c133b26efc8893f4f524b1a02
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 15:01:23 2025 +0700
+
+    Refactor: Reorder operator keys
+
+commit 287bc55e8b6148a4fa6f27d82b49b6fc137c6553
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 14:58:54 2025 +0700
+
+    Feature: Add square root functionality
+
+commit e3a8d0b1ef475f11729fa74e8bd48289ac7f8ea9
+Author: Antony Nguyen <antonynguyen@Antonys-MacBook-Air.local>
+Date:   Wed Oct 8 14:56:03 2025 +0700
+
+    Initial commit: Add base calculator project files
